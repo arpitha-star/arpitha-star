@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on to build a successful career, identify my goals and passions, create a career development plan with SMART goals.<br><br>And i am learning coding and passionate about creating responsive, user-friendly, and visually appealing websites.<br>Front-end web development excites me because it combines creativity with problem-solving.Proficient in HTML, CSS, JavaScript, and React for building interactive web interfaces.<br>
+I am currently pursuing information science an engineering at Bangalore Institute Of Technology(BIT) .I am currently working on to build a successful career, identify my goals and passions, create a career development plan with SMART goals.<br><br>And i am learning coding and passionate about creating responsive, user-friendly, and visually appealing websites.<br>Front-end web development excites me because it combines creativity with problem-solving.Proficient in HTML, CSS, JavaScript, and React for building interactive web interfaces.<br>
 
 
 ## 🌐 Socials:
